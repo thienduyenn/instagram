@@ -1,0 +1,22 @@
+
+.container {
+    display: flex;
+    
+    align-items:center;
+    
+    border: 3px solid black; 
+    height: 100px;
+    width: 500px;
+}
+.navbar {
+    
+    border: 3px solid black; 
+    height: 70px;
+    width: 200px;
+}
+.newfeed {
+   
+    border: 3px solid black; 
+    height: 50px;
+    width: 100px;
+}
